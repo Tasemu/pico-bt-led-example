@@ -1,0 +1,14 @@
+{
+    "name": "bluetooth",
+    "stubs": {
+        "rp2-micropython-1.13.0": "1.3.9"
+    },
+    "dev-packages": {
+        "micropy-cli": "*"
+    },
+    "packages": {},
+    "config": {
+        "vscode": true,
+        "pylint": true
+    }
+}
